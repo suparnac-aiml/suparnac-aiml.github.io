@@ -1,2 +1,2 @@
-# SUPARNA C
-AI engineer | Image Processing Enthusiast | M.Tech, AI
+# **SUPARNA C**  
+**AI engineer | M.Tech, AI | Image Processing Enthusiast**
