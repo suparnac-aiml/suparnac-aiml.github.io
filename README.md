@@ -41,7 +41,7 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
 
    
   ## **CERTIFICATION**  
-  ***1. IBM AI Engineering Professional Certificate***  [Click Here] ([https://suparnac-aiml.github.io/Certificates/IBM AI engineering - certificate.pdf](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20AI%20engineering%20-%20certificate.pdf)
+  ***1. IBM AI Engineering Professional Certificate***  [Click Here](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20AI%20engineering%20-%20certificate.pdf)   
   - *Machine Learning with Python*  
   - *Introduction to Deep Learning & Neural Networks with Keras*  
   - *Introduction to Computer Vision and Image Processing*  
