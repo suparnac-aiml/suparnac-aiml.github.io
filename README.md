@@ -13,17 +13,16 @@
 JAIN (Deemed-to-Be University), Faculty of Engineering and Technology, Bangalore  
 (September 2022 – November 2024)  
 ***CGPA:*** 9.29/10  
+[Certificate]()  
   
 **Bachelor of Engineering (B.E) in Electronics and Communication Engineering**  
 Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangalore  
 (August 2017 – August 2021)  
 ***CGPA:*** 7.19/10  
+[Certificate]()  
+
 
 ## **TECHNICAL SKILLS:**  
-  skills:
-## Skills
-
-## Skills
 
 |                                |                                |
 |--------------------------------|--------------------------------|
@@ -39,36 +38,20 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
 
 
 
-   
-  ## **CERTIFICATION**  
-  ***1. IBM AI Engineering Professional Certificate***  [Click Here](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20AI%20engineering%20-%20certificate.pdf)   
-  - *Machine Learning with Python*  
-  - *Introduction to Deep Learning & Neural Networks with Keras*  
-  - *Introduction to Computer Vision and Image Processing*  
-  - *Introduction to Neural Networks and PyTorch*  
-  - *Deep Learning with Keras and Tensorflow*  
-  - *AI Capstone Project with Deep Learning*  
-  
-***2. Natural Language Processing with Classification and Vector Spaces***  
-***3. IBM - Introduction to Data Engineering***  
-***4. IBM - Python for Data Science, AI & Development***  
-***5. IBM - Introduction to Relational Databases (RDBMS)***  
-***6. IBM - Databases and SQL for Data Science with Python***  
-***7. Fundamentals of Digital Image and Video Processing***  
-***8.  Introduction to Programming with MATLAB***  
-
 ## **EXPERIENCE**  
 **Intern - Data Science and Machine Learning**  
 Gilbert Research Center, L: Coimbatore, Tamil Nadu  
 (October 2023 - February 2024)  
 - Developed predictive models and data-driven solutions using Python, Linear Algebra, Optimization, PCA, Probability & Statistics, and Regression Analysis, improving decision-making accuracy and interpreting complex datasets with a 90% prediction accuracy.  
 - Aplied Image Processing techniques in a Tumor Detection and Segmentation in MRI and CT scans project, leveraging machine learning algorithms with quantitative metrics such as 92% accuracy and 87% sensitivity to extract insights from visual data.  
+-  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Internship_Related_Documents/Gilbert%20Research%20Center%20-%20Internship%20certificate.jpg)
 
 **Intern – Data Analysist**  
 MEM Engineering PVT LTD, Chennai, Tamil Nadu  
 (July 2023 - August 2023)  
 - Conducted detailed sales analysis with Microsoft Excel, identifying high-performing products and trends to optimize product positioning and marketing strategies.  
 - Utilized predictive analytics and advanced statistical techniques to forecast monthly and seasonal sales with high accuracy, driving efficient product allocation and improved sales strategy for 2023-2024.  
+- [Certificate]()
 
 **Research Intern - Data Science**  
 SpOvum Technologies Pvt. Ltd., Bangalore  
@@ -76,12 +59,15 @@ SpOvum Technologies Pvt. Ltd., Bangalore
 - Executed Exploratory Data Analysis (EDA) utilizing Excel and Python to derive pivotal insights from a real-time survey dataset completed by healthcare professionals, employing advanced statistical techniques and visualization tools.  
 - Engaged in the project of designing a Machine Learning model that precisely forecasts healthy embryos for Assisted Reproductive Technologies (IVF procedures), integrating AI algorithms and data analysis methodologies.  
 - Implemented fundamental Natural Language Processing (NLP) techniques to analyze textual data and derive actionable insights.
+- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Internship_Related_Documents/Suparna%20EDA%20internship%20SpOvum.pdf)
 
+  
 **Internet of Things (IoT) and Embedded Systems Intern**  
 Slekin Technical Solutions, Mangalore  
 (January 2019)  
 - Collaborated on IoT projects involving a diverse array of sensors, showcasing adaptability and hands-on experience.  
 - Utilized IoT devices, including Node MCU, Arduino Uno, and Raspberry Pi, to explore innovative solutions in IoT and embedded systems.  
+- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Internship_Related_Documents/Slekin%20-%20Internship%20certificate.jpg)
 
 ## **PROJECTS**  
 **Enabling smart machines to interpret human body language and facial expressions (M.Tech Thesis)**  
@@ -120,3 +106,20 @@ Slekin Technical Solutions, Mangalore
 - Participated in the NASA space app challenge (hackathon), organized by SUMVN. Secured 1st place among other 25+ teams. (07/2019)  
 - Participated in the National level NASA space app challenge 2019, held at Delhi. (10/2019)  
 - Participated in e-Yantra robotics competition. (2020)  
+
+## **CERTIFICATION**  
+***1. IBM AI Engineering Professional Certificate***  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20AI%20engineering%20-%20certificate.pdf)   
+  - *Machine Learning with Python*  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/1.%20IBM%20Machine%20Learning%20with%20Python.pdf)   
+  - *Introduction to Deep Learning & Neural Networks with Keras*   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/2.%20IBM%20Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras.pdf)  
+  - *Introduction to Computer Vision and Image Processing*   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/3.%20IBM%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing.pdf)  
+  - *Introduction to Neural Networks and PyTorch*   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/4.%20IBM%20Introduction%20to%20Neural%20Networks%20and%20PyTorch.pdf)  
+  - *Deep Learning with Keras and Tensorflow*   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/5.%20IBM%20Deep%20Learning%20with%20Keras%20and%20Tensorflow.pdf)  
+  - *AI Capstone Project with Deep Learning*   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/6.%20IBM%20AI%20Capstone%20Project%20with%20Deep%20Learning.pdf)  
+  
+***2. Natural Language Processing with Classification and Vector Spaces*** [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces%20-%20certificate.pdf)   
+***3. IBM - Introduction to Data Engineering***   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20-%20Introduction%20to%20Data%20Engineering.pdf)  
+***4. IBM - Python for Data Science, AI & Development***   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20-%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)  
+***5. IBM - Introduction to Relational Databases (RDBMS)***   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20-%20Introduction%20to%20Relational%20Databases%20(RDBMS).pdf)  
+***6. IBM - Databases and SQL for Data Science with Python***   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/IBM%20-%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)  
+***7. Fundamentals of Digital Image and Video Processing***  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/Fundamentals%20of%20Digital%20Image%20and%20Video%20Processing.pdf)   
+***8. Introduction to Programming with MATLAB***   [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/Fundamentals%20of%20Digital%20Image%20and%20Video%20Processing.pdf)   
