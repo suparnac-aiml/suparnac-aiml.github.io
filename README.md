@@ -35,6 +35,7 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
 | MATLAB                         | Reinforcement Learning         |
 | Neural Networks                | Data Preprocessing & Feature Engineering |
 | SQL                            | Git & Version Control          |
+|PowerBI                         | Tableau                        |
 
 
 
