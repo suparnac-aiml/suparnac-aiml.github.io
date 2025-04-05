@@ -21,14 +21,18 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
 
 ## **TECHNICAL SKILLS:**  
   skills:
-  - [Artificial Intelligence (AI),                Natural Language Processing]
-  - [Machine Learning (ML),                      Data Structures & Algorithms]
-  - [Deep Learning (DL),                         TensorFlow]
-  - [Image Processing and Computer Vision,       PyTorch]
-  - [Python,                                     scikit-learn]
-  - [MATLAB,                                     Reinforcement Learning]
-  - [Neural Networks,                            Data Preprocessing and Feature Engineering]
-  - [SQL,                                        Git & Version Control]
+## Skills
+
+|--------------------------------|--------------------------------|
+| Artificial Intelligence (AI)   | Natural Language Processing    |
+| Machine Learning (ML)          | Data Structures & Algorithms   |
+| Deep Learning (DL)             | TensorFlow                     |
+| Image Processing & Computer Vision | PyTorch                 |
+| Python                         | scikit-learn                   |
+| MATLAB                         | Reinforcement Learning         |
+| Neural Networks                | Data Preprocessing & Feature Engineering |
+| SQL                            | Git & Version Control          |
+
 
    
   ## **CERTIFICATION**  
