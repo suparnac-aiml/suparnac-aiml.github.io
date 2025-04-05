@@ -20,23 +20,16 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
 ***CGPA:*** 7.19/10  
 
 ## **TECHNICAL SKILLS:**  
-  - column1:  
-      - Artificial Intelligence (AI)  
-      - Machine Learning (ML)  
-      - Deep Learning (DL)  
-      - Image Processing and Computer Vision  
-      - Python Programming   
-      - MATLAB  
-      - Neural Networks  
-      - PowerBI and Tableau  
-  - column2:  
-      - Natural Language Processing  
-      - Data Structures & Algorithms  
-      - TensorFlow, PyTorch, scikit-learn  
-      - Reinforcement Learning  
-      - Data Preprocessing and Feature Engineering  
-      - DBMS and SQL  
-      - Git & Version Control  
+  skills:
+  - [Artificial Intelligence (AI),                Natural Language Processing]
+  - [Machine Learning (ML),                      Data Structures & Algorithms]
+  - [Deep Learning (DL),                         TensorFlow]
+  - [Image Processing and Computer Vision,       PyTorch]
+  - [Python,                                     scikit-learn]
+  - [MATLAB,                                     Reinforcement Learning]
+  - [Neural Networks,                            Data Preprocessing and Feature Engineering]
+  - [SQL,                                        Git & Version Control]
+
    
   ## **CERTIFICATION**  
   ***1. IBM AI Engineering Professional Certificate***  
