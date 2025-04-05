@@ -99,7 +99,9 @@ Slekin Technical Solutions, Mangalore
 *Application Number:* 202141040532  
 *Filed Date:* 07/09/2021  
 *Publication Date:* 17/09/2021  
-*[PatentDocument]*()
+*[PatentDocument]*(https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/Patent%20Document-%20Development%20Of%20Quadcopter%20for%20Search%20Operations%20with%20Human.pdf)
+*[Quadcopter]*(https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/Quadcopter.jpg)
+
 
 ## **ACHIEVEMENTS**
 - Secured 2nd position in the final year project exhibition at Sai Vidya Institute of Technology, Bangalore  
