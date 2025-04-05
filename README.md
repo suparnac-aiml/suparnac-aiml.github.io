@@ -104,10 +104,10 @@ Slekin Technical Solutions, Mangalore
 
 
 ## **ACHIEVEMENTS**
-- Secured 2nd position in the final year project exhibition at Sai Vidya Institute of Technology, Bangalore  
+- Secured 2nd position in the final year project exhibition at Sai Vidya Institute of Technology, Bangalore  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/2nd%20position%20in%20the%20final%20year%20project.jpg)    
   Project Title: Design and implementation of an AI-enabled quadcopter for search operation during disaster for real-time processing. (08/2021)   
-- Participated in the NASA space app challenge (hackathon), organized by SUMVN. Secured 1st place among other 25+ teams. (07/2019)  
-- Participated in the National level NASA space app challenge 2019, held at Delhi. (10/2019)  
+- Participated in the NASA space app challenge (hackathon), organized by SUMVN. Secured 1st place among other 25+ teams. (07/2019)  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/NASA%20space%20app%20challenge%20(hackathon)-MVIT.jpg)    
+- Participated in the National level NASA space app challenge 2019, held at Delhi. (10/2019) [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Certificates/NASA%20space%20app%20challenge%20(hackathon)-%20Delhi%20(participation%20certificate)%20.jpg)   
 - Participated in e-Yantra robotics competition. (2020)  
 
 ## **CERTIFICATION**  
