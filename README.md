@@ -84,14 +84,14 @@ Slekin Technical Solutions, Mangalore
 
 ## **PAPER PUBLICATIONS**   
 **"Multiple Patient Monitoring Systems Utilizing IoT and Cloud Computing"**  
-- Authored a technical paper exploring the development and implementation of multiple patient monitoring systems. The paper highlights the integration of Internet of Things (IoT) technologies with cloud computing for enhanced healthcare solutions.
-- [TechPaper](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5926-%20MULTIPLE%20PATIENT%20MONITORING%20SYSTEM%20USING%20IOT%20AND%20CLOUD%20COMPUTING.pdf) 
-- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5926-%20MULTIPLE%20PATIENT%20MONITORING%20SYSTEM%20USING%20IOT%20AND%20CLOUD%20COMPUTING%20certificate.jpg)
+- Authored a technical paper exploring the development and implementation of multiple patient monitoring systems. The paper highlights the integration of Internet of Things (IoT) technologies with cloud computing for enhanced healthcare solutions.  
+- [TechPaper](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5926-%20MULTIPLE%20PATIENT%20MONITORING%20SYSTEM%20USING%20IOT%20AND%20CLOUD%20COMPUTING.pdf)   
+- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5926-%20MULTIPLE%20PATIENT%20MONITORING%20SYSTEM%20USING%20IOT%20AND%20CLOUD%20COMPUTING%20certificate.jpg)  
 
 **"Enhancing Virtual Reality Gear for UAV (Unmanned Aerial Vehicle) Piloting Through Motion Sensor Integration"**  
-- Published a technical paper elucidating advancements in virtual reality gear tailored for piloting Unmanned Aerial Vehicles (UAVs). The research emphasizes the integration of motion sensors to augment UAV control and operation
-- [TechPaper](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5925%20-%20MOTION%20SENSOR%20ENHANCED%20VIRTUAL%20REALITY%20GEAR%20FOR%20PILOTING%20THE%20UAV%E2%80%99s.pdf)
-- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5925%20-%20MOTION%20SENSOR%20ENHANCED%20VIRTUAL%20REALITY%20GEAR%20FOR%20PILOTING%20THE%20UAV%E2%80%99s%20-%20certificate.jpg)  
+- Published a technical paper elucidating advancements in virtual reality gear tailored for piloting Unmanned Aerial Vehicles (UAVs). The research emphasizes the integration of motion sensors to augment UAV control and operation  
+- [TechPaper](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5925%20-%20MOTION%20SENSOR%20ENHANCED%20VIRTUAL%20REALITY%20GEAR%20FOR%20PILOTING%20THE%20UAV%E2%80%99s.pdf)  
+- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5925%20-%20MOTION%20SENSOR%20ENHANCED%20VIRTUAL%20REALITY%20GEAR%20FOR%20PILOTING%20THE%20UAV%E2%80%99s%20-%20certificate.jpg)    
 
   
 ## **PATENT**
@@ -99,8 +99,8 @@ Slekin Technical Solutions, Mangalore
 *Application Number:* 202141040532  
 *Filed Date:* 07/09/2021  
 *Publication Date:* 17/09/2021  
-*[PatentDocument]*(https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/Patent%20Document-%20Development%20Of%20Quadcopter%20for%20Search%20Operations%20with%20Human.pdf)
-*[Quadcopter]*(https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/Quadcopter.jpg)
+[PatentDocument](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/Patent%20Document-%20Development%20Of%20Quadcopter%20for%20Search%20Operations%20with%20Human.pdf)  
+[Quadcopter](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/Quadcopter.jpg)  
 
 
 ## **ACHIEVEMENTS**
