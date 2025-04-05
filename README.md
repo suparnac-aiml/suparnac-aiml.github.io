@@ -4,8 +4,8 @@
 ## **PERSONAL DETAILS**  
 **Gmail:** suparnac2021@gmail.com  
 **Phone No.:** (+91) 8105229195  
-**Website:**  
-https://suparnac-aiml.github.io/AI-noob-nook.github.io/  
+**Website:**  https://suparnac-aiml.github.io/AI-noob-nook.github.io/  
+**Github Profile:** https://github.com/suparnac-aiml/suparnac-aiml.github.io
 **LinkedIn:** www.linkedin.com/in/suparna-c-279339ab  
 
 ## **EDUCATION**  
