@@ -23,6 +23,9 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
   skills:
 ## Skills
 
+## Skills
+
+|                                |                                |
 |--------------------------------|--------------------------------|
 | Artificial Intelligence (AI)   | Natural Language Processing    |
 | Machine Learning (ML)          | Data Structures & Algorithms   |
@@ -32,6 +35,7 @@ Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangal
 | MATLAB                         | Reinforcement Learning         |
 | Neural Networks                | Data Preprocessing & Feature Engineering |
 | SQL                            | Git & Version Control          |
+
 
 
    
