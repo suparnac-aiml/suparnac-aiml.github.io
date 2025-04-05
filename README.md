@@ -13,13 +13,13 @@
 JAIN (Deemed-to-Be University), Faculty of Engineering and Technology, Bangalore  
 (September 2022 – November 2024)  
 ***CGPA:*** 9.29/10  
-[Certificate]()  
+[Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/M.Tech%20(AI)/M.Tech%20Certificate.jpg)  
   
 **Bachelor of Engineering (B.E) in Electronics and Communication Engineering**  
 Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangalore  
 (August 2017 – August 2021)  
 ***CGPA:*** 7.19/10  
-[Certificate]()  
+[Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/B.Tech%20(ECE)/B.Tech%20certificate.jpg)  
 
 
 ## **TECHNICAL SKILLS:**  
@@ -46,12 +46,6 @@ Gilbert Research Center, L: Coimbatore, Tamil Nadu
 - Aplied Image Processing techniques in a Tumor Detection and Segmentation in MRI and CT scans project, leveraging machine learning algorithms with quantitative metrics such as 92% accuracy and 87% sensitivity to extract insights from visual data.  
 -  [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Internship_Related_Documents/Gilbert%20Research%20Center%20-%20Internship%20certificate.jpg)
 
-**Intern – Data Analysist**  
-MEM Engineering PVT LTD, Chennai, Tamil Nadu  
-(July 2023 - August 2023)  
-- Conducted detailed sales analysis with Microsoft Excel, identifying high-performing products and trends to optimize product positioning and marketing strategies.  
-- Utilized predictive analytics and advanced statistical techniques to forecast monthly and seasonal sales with high accuracy, driving efficient product allocation and improved sales strategy for 2023-2024.  
-- [Certificate]()
 
 **Research Intern - Data Science**  
 SpOvum Technologies Pvt. Ltd., Bangalore  
@@ -75,6 +69,7 @@ Slekin Technical Solutions, Mangalore
 - **Technologies Used:** Computer Vision, Deep Learning, TensorFlow, OpenCV  
 - **Facial Emotion Recognition:** Dataset – FER2013, model accuracy: 75.33%  
 - **Action Recognition:** Dataset – UCF101, model accuracy: 98.4%
+- [Thesis](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/M.Tech%20(AI)/SUPARNA%20-%20M.Tech%20THESIS_compressed.pdf)
 
 **Breast Cancer and Wine Data Classification**  
 - Achieved 95% accuracy in classifying breast cancer and wine datasets using a Multi-Layer Perceptron model  
@@ -89,16 +84,22 @@ Slekin Technical Solutions, Mangalore
 
 ## **PAPER PUBLICATIONS**   
 **"Multiple Patient Monitoring Systems Utilizing IoT and Cloud Computing"**  
-- Authored a technical paper exploring the development and implementation of multiple patient monitoring systems. The paper highlights the integration of Internet of Things (IoT) technologies with cloud computing for enhanced healthcare solutions.  
+- Authored a technical paper exploring the development and implementation of multiple patient monitoring systems. The paper highlights the integration of Internet of Things (IoT) technologies with cloud computing for enhanced healthcare solutions.
+- [TechPaper](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5926-%20MULTIPLE%20PATIENT%20MONITORING%20SYSTEM%20USING%20IOT%20AND%20CLOUD%20COMPUTING.pdf) 
+- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5926-%20MULTIPLE%20PATIENT%20MONITORING%20SYSTEM%20USING%20IOT%20AND%20CLOUD%20COMPUTING%20certificate.jpg)
 
 **"Enhancing Virtual Reality Gear for UAV (Unmanned Aerial Vehicle) Piloting Through Motion Sensor Integration"**  
 - Published a technical paper elucidating advancements in virtual reality gear tailored for piloting Unmanned Aerial Vehicles (UAVs). The research emphasizes the integration of motion sensors to augment UAV control and operation
+- [TechPaper](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5925%20-%20MOTION%20SENSOR%20ENHANCED%20VIRTUAL%20REALITY%20GEAR%20FOR%20PILOTING%20THE%20UAV%E2%80%99s.pdf)
+- [Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/Paper%20and%20Patent%20Publication/IRJET-V7I5925%20-%20MOTION%20SENSOR%20ENHANCED%20VIRTUAL%20REALITY%20GEAR%20FOR%20PILOTING%20THE%20UAV%E2%80%99s%20-%20certificate.jpg)  
 
+  
 ## **PATENT**
 **Patent Title: Development of Quadcopter for search Operations with Human Detection Abilities**  
 *Application Number:* 202141040532  
 *Filed Date:* 07/09/2021  
 *Publication Date:* 17/09/2021  
+*[PatentDocument]*()
 
 ## **ACHIEVEMENTS**
 - Secured 2nd position in the final year project exhibition at Sai Vidya Institute of Technology, Bangalore  
