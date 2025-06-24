@@ -1,71 +1,73 @@
+prompt_iteration:
+  agent: summarizer_agent
+  goal: "Remove emotional tone and generate a concise summary of the customer's issue"
+  iterations:
+    - round: 1
+      prompt: |
+        You are a helpful assistant that rewrites customer complaints clearly.
+        Summarize the main issue concisely and remove emotional or unrelated text.
+      confidence_score: 0.66
+      avg_length: 40.2 characters
+    - round: 2
+      prompt: |
+        You are a customer support summarization assistant.
+        Strip out emotion and focus only on what the customer is asking for or complaining about.
+        Provide a clear, short summary.
+      confidence_score: 0.58
+      avg_length: 45.0 characters
+    - round: 3
+      prompt: |
+        You are a professional summarization assistant for customer support.
+        Rewrite the customer’s complaint or request into a single, emotionally neutral sentence.
+        Do not include greetings, anger, frustration, or unrelated context.
+        Only include what action or outcome the user desires or reports as an issue.
+      confidence_score: 0.90
+      avg_length: 158.2 characters
 
----
+  agent: classifier_agent
+  goal: "Classify the ticket into one of the predefined categories"
+  iterations:
+    - round: 1
+      prompt: |
+        You are a support ticket classifier.
+        Classify the given message into one of the following categories:
+        - Technical Bug
+        - Billing Issue
+        - Feature Request
+        - General Question
+        - Complaint
+      confidence_score: 0.50
+      notes: "Basic functionality working, but accuracy and confidence need improvement."
 
-## `prompt_iteration.md`
+  agent: reply_agent
+  goal: "Generate a polite and appropriate customer reply based on issue category"
+  iterations:
+    - round: 1
+      prompt: |
+        You are a customer support representative.
+        Write a professional, polite reply to the customer based on their issue and classification.
+        Address the concern, acknowledge the frustration if any, and offer a resolution or next step.
+      confidence_score: 0.70
+      avg_length: 423.0 characters
+    - round: 2
+      prompt: |
+        You are a senior customer support agent.
+        Given the user’s issue and ticket classification, write a calm, professional, and clear response.
+        Avoid repeating their complaint, instead focus on acknowledgment, solution or next steps.
+      confidence_score: 0.70
+      avg_length: 472.4 characters
 
-```markdown
-# ✏ Prompt Engineering & Iteration Log
-
-This document outlines how system prompts for each agent were iteratively improved to increase output quality and confidence.
-
----
-
-##  1. Summarizer Agent
-
-### Initial Prompt:
-> "Summarize the message clearly."
-
-**Issue:** Very short or vague summaries.  
-**Avg. Confidence:** 0.5–0.7
-
-### Final Prompt:
-> "You are a helpful assistant that rewrites customer complaints clearly. Summarize the main issue concisely and remove emotional or unrelated text."
-
-Result: Consistent summaries around 150 characters.  
-**Confidence:** ~0.90  
-**Output Length:** ~158 characters
-
----
-
-## 2. Classifier Agent
-
-### Prompt:
-> "Classify the message into one of the following categories: Technical Bug, Feature Request, Billing, Account Access, General Inquiry."
-
-No major change; confidence remained 0.5 due to limited diversity of categories.
-
----
-
-## 3. Reply Generator Agent
-
-### Initial Prompt:
-> "Reply to the customer message."
-
-**Issue:** Generic replies, sometimes not polite.
-
-### Final Prompt:
-> "You are a friendly and empathetic customer support agent. Respond politely to the message and provide help depending on the issue category."
-
- Result: Improved tone, relevant content, longer replies.  
-**Confidence:** ~0.70  
-**Output Length:** ~400+ characters
-
----
-
-## 4. Routing Agent
-
-### Prompt:
-> "Based on the issue category and customer tier, assign the correct internal team to handle the ticket."
-
-Stable performance. No further changes needed.
-
----
-
-## Summary
-
-| Agent            | Final Confidence | Main Change            |
-|------------------|------------------|-------------------------|
-| Summarizer       | 0.90             | Clearer instructions   |
-| Classifier       | 0.50             | Stable                 |
-| Reply Generator  | 0.70             | Tone + politeness      |
-| Routing Agent    | 0.50             | Stable                 |
+  agent: routing_agent
+  goal: "Route the ticket to the correct support team based on customer tier and issue"
+  iterations:
+    - round: 1
+      prompt: |
+        You are a support ticket router.
+        Based on the ticket's category and customer tier, decide whether to route the ticket to:
+        - Billing Team
+        - Technical Team
+        - Product Team
+        - General Support
+        - Priority Support
+      confidence_score: 0.50
+      notes: "Prompt meets basic requirements, needs fine-tuning if business logic expands."
