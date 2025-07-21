@@ -79,16 +79,19 @@ features:
    
 # Model Details    
    
-model_details:    
+    
   input_features:    
     - altitude_km: "Satellite altitude above sea level (km)"     
     - velocity_kmps: "Orbital velocity (km/s)"    
     - inclination_deg: "Inclination with respect to the Earth's equator (degrees)"    
+    
   output_classes:    
     - 0: "LEO (Low Earth Orbit)"     
     - 1: "MEO (Medium Earth Orbit)"    
     - 2: "GEO (Geostationary Orbit)"    
+    
   classifier: "scikit-learn SVC (Support Vector Machine) with class_weight='balanced'"    
+  
   evaluation_metrics:    
     - confusion_matrix    
     - precision    
