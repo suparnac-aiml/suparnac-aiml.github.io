@@ -5,9 +5,9 @@ description: >
 author: Suparna (M.Tech AI)    
 
  
-# ----------------------------------------    
+   
 # Project Overview    
-# ----------------------------------------    
+   
 project_title: "Satellite Orbit Region Classifier using Physics-Aware Machine Learning"        
 summary: |       
   This project leverages machine learning principles and physics constraints to classify satellite orbits into:    
@@ -21,10 +21,9 @@ summary: |
     - Model training with SVM and class weighting    
     - Validation using physics rule-based checks    
     - Interactive prediction (and validation) through a Streamlit web app    
-  
-# ----------------------------------------    
+      
 # Directory Structure    
-# ----------------------------------------    
+   
 structure: |    
   .
   ├── satellite_orbital_classification_dataset.csv    
@@ -35,9 +34,9 @@ structure: |
   ├── README.md    
  
 
-# ----------------------------------------     
+    
 # Requirements    
-# ----------------------------------------    
+   
 requirements:    
   - python >=3.8    
   - numpy   
@@ -48,9 +47,9 @@ requirements:
   - streamlit    
   - joblib    
 
-# ----------------------------------------      
+      
 # Usage    
-# ----------------------------------------    
+   
 installation: |     
   
   1. Install dependencies    
@@ -66,9 +65,9 @@ run_streamlit_app: |
   3. The app predicts the orbital class (LEO, MEO, GEO), checks for physical validity, and displays a result.    
   4. If parameters are unphysical, an error with explanation is given.    
 
-# ----------------------------------------    
+ 
 # Features    
-# ----------------------------------------    
+   
 features:   
   - Synthetic dataset generated using physical constraints    
   - Handles real-world data imbalance    
@@ -77,9 +76,9 @@ features:
   - Intuitive web interface (Streamlit) for experimentation    
   - Explainable error reporting for invalid entries   
  
-# ----------------------------------------    
+   
 # Model Details    
-# ----------------------------------------    
+   
 model_details:    
   input_features:    
     - altitude_km: "Satellite altitude above sea level (km)"     
