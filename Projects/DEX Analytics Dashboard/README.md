@@ -3,7 +3,7 @@
 A real-time analytics dashboard for decentralized exchange (DEX) liquidity pools. Built with Streamlit and GeckoTerminal API, this app helps you monitor trading volume, liquidity, and price changes across multiple blockchain networks.    
 
 Features   
-	- Fetches trending pools on Ethereum, Polygon, BSC, Arbitrum, and Avalanche   
+	- Fetches trending pools on Ethereum, Polygon, BSC, etc   
 	- Displays key metrics: total 24h volume, total liquidity (TVL), average price change, and transaction count   
 	- Interactive charts:   
 	•	Top 10 pools by 24h volume (bar chart)   
