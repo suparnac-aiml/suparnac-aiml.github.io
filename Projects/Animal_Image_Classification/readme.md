@@ -40,7 +40,7 @@ A deep learning project to classify images of animals into 15 different categori
 
 ### Training   
 ```python
-python train.py
+python Animal_Image_Classification.ipynb
 ```
 
 ### Loading Saved Model    
