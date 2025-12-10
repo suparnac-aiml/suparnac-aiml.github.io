@@ -2,8 +2,6 @@
 **AI engineer | M.Tech, AI | Image Processing Enthusiast**  
 
 ## **PERSONAL DETAILS**  
-**Gmail:** suparnac2021@gmail.com  
-**Phone No.:** (+91) 8105229195  
 **Website:**  https://suparnac-aiml.github.io/AI-noob-nook.github.io/  
 **Github Profile:** https://github.com/suparnac-aiml/suparnac-aiml.github.io  
 **LinkedIn:** www.linkedin.com/in/suparna-c-279339ab  
@@ -13,13 +11,12 @@
 JAIN (Deemed-to-Be University), Faculty of Engineering and Technology, Bangalore  
 (September 2022 – November 2024)  
 ***CGPA:*** 9.29/10  
-[Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/M.Tech%20(AI)/M.Tech%20Certificate.jpg)  
+
   
 **Bachelor of Engineering (B.E) in Electronics and Communication Engineering**  
 Sai Vidya Institute of Technology, Visvesvaraya Technological University, Bangalore  
 (August 2017 – August 2021)  
 ***CGPA:*** 7.19/10  
-[Certificate](https://github.com/suparnac-aiml/suparnac-aiml.github.io/blob/main/B.Tech%20(ECE)/B.Tech%20certificate.jpg)  
 
 
 ## **TECHNICAL SKILLS:**  
